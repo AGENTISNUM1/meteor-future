@@ -21,4 +21,6 @@ Confirmed working addons:
 
   [Meteor Rejects](https://github.com/AntiCope/meteor-rejects/releases)
 
+  [Numby Hack](https://github.com/cqb13/Numby-hack/releases)
+
 </details>
