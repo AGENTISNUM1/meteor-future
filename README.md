@@ -23,5 +23,5 @@ Confirmed working addons:
 
   [Numby Hack](https://github.com/cqb13/Numby-hack/releases)
 
-  **More addons might work, try it for yourself! Blackout will NOT work!**
+  **More addons might work, try it for yourself! For Blackout, visit the blackout Branch!**
 </details>
