@@ -10,7 +10,15 @@ A repo with some fixed versions of meteor client that work with future.
 
 
 ## Credits:
->[Meteor Client by MineGame159 and seasnail](https://github.com/MeteorDevelopment/meteor-client)  
+>[Meteor Client by MineGame159 and seasnail](https://github.com/MeteorDevelopment/meteor-client) 
 
 >[Meteor archive by ManInMyVan](https://github.com/ManInMyVan/meteor-archive)
 
+<details>
+<summary>Working Addons</summary>
+<br>
+Confirmed working addons:
+
+  [Meteor Rejects](https://github.com/AntiCope/meteor-rejects/releases)
+
+</details>
