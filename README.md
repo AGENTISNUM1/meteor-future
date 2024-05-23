@@ -14,14 +14,4 @@ A repo with some fixed versions of meteor client that work with future.
 
 >[Meteor archive by ManInMyVan](https://github.com/ManInMyVan/meteor-archive)
 
-<details>
-<summary>Working Addons</summary>
-<br>
-Confirmed working addons:
 
-  [Meteor Rejects](https://github.com/AntiCope/meteor-rejects/releases)
-
-  [Numby Hack](https://github.com/cqb13/Numby-hack/releases)
-
-  **More addons might work, try it for yourself! For Blackout, visit the blackout Branch!**
-</details>
